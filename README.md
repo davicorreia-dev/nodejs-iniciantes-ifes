@@ -53,14 +53,15 @@ Aqui você encontrará **exercícios práticos**, **exemplos de código** e **pr
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
   </a>
+  <a href="https://getbootstrap.com/" target="_blank" title="Bootstrap">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50" alt="Bootstrap"/>
+  </a>
   <a href="https://www.npmjs.com/" target="_blank" title="NPM">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="50" alt="NPM"/>
-  </a>
-  <a href="https://yarnpkg.com/" target="_blank" title="Yarn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" width="50" alt="Yarn"/>
   </a>
   <a href="https://www.postman.com/" target="_blank" title="Postman">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" alt="Postman"/>
   </a>
+</div>
 
 ---
